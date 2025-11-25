@@ -6,7 +6,7 @@ This example shows how to use the clock function to measure the performance of b
 
 ## Key Concepts
 
-Performance Strategies
+**Performance Strategies**. Evaluate the performance of a thread Block.
 
 ## Supported SM Architectures
 
