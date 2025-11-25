@@ -6,7 +6,7 @@ This sample illustrates the usage of CUDA events for both GPU timing and overlap
 
 ## Key Concepts
 
-Asynchronous Data Transfers, CUDA Streams and Events
+**Asynchronous Data Transfers, CUDA Streams and Events**
 
 ## Supported SM Architectures
 
