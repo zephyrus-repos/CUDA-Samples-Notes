@@ -6,7 +6,7 @@ This sample demonstrates how to use OpenMP API to write an application for multi
 
 ## Key Concepts
 
-CUDA Systems Integration, OpenMP, Multithreading
+**CUDA Systems Integration**, **OpenMP**, **Multithreading**
 
 ## Supported SM Architectures
 

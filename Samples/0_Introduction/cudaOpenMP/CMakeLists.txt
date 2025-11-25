@@ -24,7 +24,7 @@ if(OpenMP_CXX_FOUND)
 # Add target for asyncAPI
     add_executable(cudaOpenMP cudaOpenMP.cu)
 
-target_compile_options(cudaOpenMP PRIVATE $<$<COMPILE_LANGUAGE:CUDA>:--extended-lambda>)
+target_compile_options(cudaOpenMP PRIVATE $<$<COMPILE_LANGUAGE:CUDA>:--extended-lambda> ${OpenMP_CXX_FLAGS})
 
 target_compile_features(cudaOpenMP PRIVATE cxx_std_17 cuda_std_17)
 
