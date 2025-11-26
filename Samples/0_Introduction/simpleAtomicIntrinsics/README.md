@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple demonstration of global memory atomic instructions.
+A simple demonstration of **global memory atomic instructions**.
 
 ## Key Concepts
 
